@@ -204,7 +204,16 @@ iframe{
 
 }
 
+.guide {
+	
+	margin-left: 27%;
+	font-size: 150px;
+	text-align: center;
+}
+.guide a{
+		text-decoration:none;
 
+}
 
 @media only screen and (max-width: 768px) {
   
